@@ -1,3 +1,3 @@
 # npm_library
 
-## [day.js](https://github.com/Todaraba-Edwin/npm_library/blob/main/day.js)
+### 1. [day.js](https://github.com/Todaraba-Edwin/npm_library/blob/main/day.js)
